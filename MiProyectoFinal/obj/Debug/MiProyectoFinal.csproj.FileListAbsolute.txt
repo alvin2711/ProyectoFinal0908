@@ -1,0 +1,6 @@
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\bin\Debug\MiProyectoFinal.exe.config
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\obj\Debug\MiProyectoFinal.exe
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\obj\Debug\MiProyectoFinal.pdb
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\bin\Debug\MiProyectoFinal.exe
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\bin\Debug\MiProyectoFinal.pdb
+C:\Users\volquez\Desktop\MiProyectoFinal\MiProyectoFinal\obj\Debug\MiProyectoFinal.csprojResolveAssemblyReference.cache
